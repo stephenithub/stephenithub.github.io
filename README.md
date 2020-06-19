@@ -1,2 +1,2 @@
 # stephenithub.github.io
-blog of hexo
+blog of Stephen
